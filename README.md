@@ -15,6 +15,8 @@
 
 **MviArchitectureSample** : MVVM + MVI를 사용하여 기본적인 구조를 만들어 본 샘플 프로젝트 입니다.
 
+**MvpArchitectureSample** : MVP Pattern을 사용하여 기본적인 구조를 만들어 본 샘플 프로젝트 입니다.
+
 **Dummy** : Github Actions을 사용하기 위해 만들어 둔 Dummy 프로젝트로, 내부 코드는 Clean Architecture 프로젝트를 가져와 사용했습니다.
 
 **BitrsieSample** : Bitsire를 사용하기 위해 만들어 둔 Dummy 프로젝트 입니다.
