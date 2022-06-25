@@ -31,6 +31,8 @@
 
 **ComposeSample** : Jetpack Compose를 공부하면서 만들어 둔 샘플 프로젝트 입니다.
 
+**SSA-Compose** : ComposeSample를 Single Activity로 변경해 둔 샘플 프로젝트 입니다.
+
 ## Notion 
 저의 Profile, 진행한 프로젝트 및 사용 가능한 기술 등의 정보가 작성되어 있는 Notion 입니다.
 
