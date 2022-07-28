@@ -25,7 +25,7 @@
 
 **DiSample** : DI에 대한 스터디를 진행하면서 Dagger2, Hilt, Koin을 적용해 본 샘플 프로젝트 입니다.
 
-**UnitTestSample** : Test Code에 대한 스터디를 진행하면서 Mockito, Truth, Espresso를 적용해 본 샘플 테스트 프로젝트 입니다.
+**UnitTestSample** : Test Code에 대한 스터디를 진행하면서 Mockito, Truth, Espresso를 적용해 본 샘플 테스트 프로젝트 입니다. Jacoco를 적용하여 Code Coverage 확인도 가능합니다.
 
 **ApiLogger** : JitPack을 사용한 Library 배포를 해보기 위하여 만들어둔 샘플 프로젝트 입니다.
 
