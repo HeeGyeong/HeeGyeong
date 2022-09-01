@@ -37,6 +37,8 @@
 
 **KtorSample** : Retrofit이 아닌 Ktor을 사용해보기 위해 만들어 둔 샘플 프로젝트 입니다.
 
+**EpoxySample** : RecyclerView 대신 Airbnb에서 제공하는 Library인 Epoxy를 사용하여 RecyclerView를 구현해 본 샘플 프로젝트 입니다.
+
 ## Blog
 공부를 진행하고, 관련된 자료를 남겨 Reference로 사용하기 위하여 블로그에 글을 작성하고 있습니다.
 
