@@ -11,7 +11,7 @@
 
 ---
 
-**CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다.
+**CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다. 사용성 높은 기능들을 발견하면 해당 샘플 프로젝트에 적용해보고 있습니다.
 
 **ModuleArchitecture** : Modular Architecture에 대한 스터디를 진행하면서 Clean Architecture를 기반으로 만들어 본 샘플 프로젝트 입니다.
 
