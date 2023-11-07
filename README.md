@@ -11,6 +11,8 @@
 
 ---
 
+**ComposeSample** : Jetpack Compose를 공부하면서 만들어 둔 샘플 프로젝트로, Compose를 실무에 적용하면서 발생했던 이슈와 해결 방법을 추가하고 있습니다. (2023. 10월 기준 업데이트 중)
+
 **CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다. 사용성 높은 기능들을 발견하면 해당 샘플 프로젝트에 적용해보고 있습니다.
 
 **ModuleArchitecture** : Modular Architecture에 대한 스터디를 진행하면서 Clean Architecture를 기반으로 만들어 본 샘플 프로젝트 입니다.
@@ -28,8 +30,6 @@
 **UnitTestSample** : Test Code에 대한 스터디를 진행하면서 Mockito, Truth, Espresso를 적용해 본 샘플 테스트 프로젝트 입니다.
 
 **ApiLogger** : JitPack을 사용한 Library 배포를 해보기 위하여 만들어둔 샘플 프로젝트 입니다.
-
-**ComposeSample** : Jetpack Compose를 공부하면서 만들어 둔 샘플 프로젝트 입니다.
 
 **Dummy** : Github Actions을 사용하기 위해 만들어 둔 Dummy 프로젝트로, 내부 코드는 Clean Architecture 프로젝트를 가져와 사용했습니다.
 
