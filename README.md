@@ -11,7 +11,8 @@
 
 ---
 
-**ComposeSample** : Jetpack Compose를 공부하면서 만들어 둔 샘플 프로젝트로, Compose를 실무에 적용하면서 발생했던 이슈와 해결 방법을 추가하고 있습니다. (2024. 2월 기준 업데이트 중)
+**ComposeSample** : 2024. 2월 기준 메인 화면을 전면 개편하였습니다. Jetpack Compose를 공부하고 실무에 적용하면서 발생했던 이슈와 자주 사용되는 다양한 기능들의 샘플을 추가하고 있습니다.
+기존에 공부하면서 만들어둔 샘플코드 기반으로 작성되어 MainActivity에서는 기본적인 Compose 사용에 대한 예제가, BlogExampleActivity 에서 블로그에 작성된 실무에 적용할 수 있는 다양한 기능을 구현해 두었습니다.
 
 **CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다. 사용성 높은 기능들을 발견하면 해당 샘플 프로젝트에 적용해보고 있습니다.
 
