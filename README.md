@@ -1,6 +1,13 @@
 # Android Developer (2019.5 ~ )
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+
+
+<img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=plastic&logo=Jetpack Compose&logoColor=ffffff"/>
+
+
 ## Github
 
 스터디를 진행하면서 필요에 따라 사용하기 위하여 샘플 프로젝트를 만들어 올려두었습니다.
@@ -15,9 +22,15 @@
 기존에 공부하면서 만들어둔 샘플코드 기반으로 작성되어 MainActivity에서는 기본적인 Compose 사용에 대한 예제가, BlogExampleActivity 에서 블로그에 작성된 실무에 적용할 수 있는 다양한 기능을 구현해 두었습니다.
 샘플 앱과 연결 된 블로그 글이 있는 경우 쉽게 찾아볼 수 있도록 링크를 연결해두었습니다.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+
 **CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다. 사용성 높은 기능들을 발견하면 해당 샘플 프로젝트에 적용해보고 있습니다.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+
 **ModuleArchitecture** : Modular Architecture에 대한 스터디를 진행하면서 Clean Architecture를 기반으로 만들어 본 샘플 프로젝트 입니다.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
 
 **MviArchitectureSample** : MVVM + MVI를 사용하여 기본적인 구조를 만들어 본 샘플 프로젝트 입니다.
 
@@ -48,4 +61,7 @@
 
 직접 경험해보고 느낀 것을 토대로 글을 작성하여 같은 고민을 하는 개발자에게 도움을 주고자 합니다.
 
-**[Tistory Blog](https://heegs.tistory.com "Heeg's Blog")**
+<a href="https://github.com/HeeGyeong/github-readme-activity-graph">
+    <img src="https://img.shields.io/badge/Tistory-FFA500?style=plastic&logo=Tistory&logoColor=ffffff"/>
+</a>
+
