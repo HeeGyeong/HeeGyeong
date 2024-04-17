@@ -1,7 +1,6 @@
 # Android Developer (2019.5 ~ )
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong)
 
 
@@ -66,8 +65,11 @@
 직접 경험해보고 느낀 것을 토대로 글을 작성하여 같은 고민을 하는 개발자에게 도움을 주고자 합니다.
 
 <a href="https://github.com/HeeGyeong/github-readme-activity-graph">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFA500"/>
+    <img src="https://img.shields.io/badge/Tistory Blog-000000?style=plastic&logo=Tistory&logoColor=FFA500"/>
 </a>
 
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeeGyeong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
