@@ -22,15 +22,15 @@
 기존에 공부하면서 만들어둔 샘플코드 기반으로 작성되어 MainActivity에서는 기본적인 Compose 사용에 대한 예제가, BlogExampleActivity 에서 블로그에 작성된 실무에 적용할 수 있는 다양한 기능을 구현해 두었습니다.
 샘플 앱과 연결 된 블로그 글이 있는 경우 쉽게 찾아볼 수 있도록 링크를 연결해두었습니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
 
 **CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다. 사용성 높은 기능들을 발견하면 해당 샘플 프로젝트에 적용해보고 있습니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
 **ModuleArchitecture** : Modular Architecture에 대한 스터디를 진행하면서 Clean Architecture를 기반으로 만들어 본 샘플 프로젝트 입니다.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/ModuleArchitecture)
 
 **MviArchitectureSample** : MVVM + MVI를 사용하여 기본적인 구조를 만들어 본 샘플 프로젝트 입니다.
 
