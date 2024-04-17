@@ -66,7 +66,7 @@
 직접 경험해보고 느낀 것을 토대로 글을 작성하여 같은 고민을 하는 개발자에게 도움을 주고자 합니다.
 
 <a href="https://github.com/HeeGyeong/github-readme-activity-graph">
-    <img src="https://img.shields.io/badge/Tistory-FFA500?style=plastic&logo=Tistory&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFA500"/>
 </a>
 
 
