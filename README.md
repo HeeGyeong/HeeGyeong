@@ -2,10 +2,14 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong)
 
 
 <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=Android&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=plastic&logo=Jetpack Compose&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=plastic&logo=Sourcetree&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=Github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=Git&logoColor=F05032"/>
+
+<img src="https://img.shields.io/badge/Bitrise-000000?style=plastic&logo=Bitrise&logoColor=683D87"/> <img src="https://img.shields.io/badge/Github Actions-000000?style=plastic&logo=Githubactions&logoColor=2088FF"/>
 
 
 ## Github
