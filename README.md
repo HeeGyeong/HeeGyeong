@@ -28,10 +28,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
 
 **CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다.
+Clean Architecture 개념을 이해하기 위하여 가장 기본적인 구조를 만족하고 있으며, API 통신, DI 등의 기본적인 사용 방법을 가이드 하기 위하여 만들었습니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
 **ModuleArchitecture** : Modular Architecture에 대한 스터디를 진행하면서 Clean Architecture를 기반으로 만들어 본 샘플 프로젝트 입니다.
+Clean Architecture의 구조를 Module로 나누었을 때 확인 할 수 있는 기본적인 구조이며, Coordinator Pattern를 사용하여 각 화면간의 이동을 구현하였습니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/ModuleArchitecture)
 
