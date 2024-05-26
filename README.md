@@ -51,13 +51,14 @@ Clean Architecture의 구조를 Module로 나누었을 때 확인 할 수 있는
 
 **ApiLogger** : JitPack을 사용한 Library 배포를 해보기 위하여 만들어둔 샘플 프로젝트 입니다.
 
-**Dummy** : Github Actions을 사용하기 위해 만들어 둔 Dummy 프로젝트로, 내부 코드는 Clean Architecture 프로젝트를 가져와 사용했습니다.
-
-**BitrsieSample** : Bitsire를 사용하기 위해 만들어 둔 Dummy 프로젝트 입니다.
-
 **KtorSample** : Retrofit이 아닌 Ktor을 사용해보기 위해 만들어 둔 샘플 프로젝트 입니다.
 
 **EpoxySample** : RecyclerView 대신 Airbnb에서 제공하는 Library인 Epoxy를 사용하여 RecyclerView를 구현해 본 샘플 프로젝트 입니다.
+
+## CI / CD Sample
+**Dummy** : Github Actions을 사용하기 위해 만들어 둔 Dummy 프로젝트로, 내부 코드는 Clean Architecture 프로젝트를 가져와 사용했습니다.
+
+**BitrsieSample** : Bitsire를 사용하기 위해 만들어 둔 Dummy 프로젝트 입니다.
 
 ## Blog
 공부를 진행하고, 관련된 자료를 남겨 Reference로 사용하기 위하여 블로그에 글을 작성하고 있습니다.
