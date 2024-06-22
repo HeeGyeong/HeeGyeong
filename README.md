@@ -21,9 +21,12 @@
 
 ---
 
-**ComposeSample** : 2024. 4월 기준 메인 화면을 전면 개편하였습니다. Jetpack Compose를 공부하고 실무에 적용하면서 발생했던 이슈와 자주 사용되는 다양한 기능들의 샘플을 추가하고 있습니다.
+**ComposeSample** : Jetpack Compose를 공부하고 실무에 적용하면서 발생했던 이슈와 자주 사용되는 다양한 기능들의 샘플을 추가하고 있습니다.
 기존에 공부하면서 만들어둔 샘플코드 기반으로 작성되어 MainActivity에서는 기본적인 Compose 사용에 대한 예제가, BlogExampleActivity 에서 블로그에 작성된 실무에 적용할 수 있는 다양한 기능을 구현해 두었습니다.
 샘플 앱과 연결 된 블로그 글이 있는 경우 쉽게 찾아볼 수 있도록 링크를 연결해두었습니다.
+
+24. 04. 기준 메인 화면을 전면 개편하였습니다.
+24. 06. Clean Architecture 구조로 변경하였습니다. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
 
