@@ -25,9 +25,11 @@
 기존에 공부하면서 만들어둔 샘플코드 기반으로 작성되어 MainActivity에서는 기본적인 Compose 사용에 대한 예제가, BlogExampleActivity 에서 블로그에 작성된 실무에 적용할 수 있는 다양한 기능을 구현해 두었습니다.
 샘플 앱과 연결 된 블로그 글이 있는 경우 쉽게 찾아볼 수 있도록 링크를 연결해두었습니다.
 
-2024년 4월. 기준 메인 화면을 전면 개편하였습니다.
+2024년 4월. 기준 메인 화면을 전면 개편.
 
-2024년 6월. Clean Architecture 구조로 변경하였습니다. 
+2024년 6월. Clean Architecture 구조로 변경.
+
+2024년 8월. Version Update 및 버전 대응.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
 
