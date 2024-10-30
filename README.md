@@ -11,71 +11,122 @@
 <img src="https://img.shields.io/badge/Bitrise-000000?style=plastic&logo=Bitrise&logoColor=683D87"/> <img src="https://img.shields.io/badge/Github Actions-000000?style=plastic&logo=Githubactions&logoColor=2088FF"/>
 
 
-## Github
+## 소개
+안드로이드 개발을 하면서 학습하고 실무에 적용한 다양한 아키텍처와 기술들을 정리한 저장소입니다.
 
-스터디를 진행하면서 필요에 따라 사용하기 위하여 샘플 프로젝트를 만들어 올려두었습니다.
-
-수정이 필요한 부분을 발견하면 지속적으로 수정하며 보완하고 있습니다.
-
-더 자세한 정보는 해당 Repository의 Readme에 작성해 두었습니다.
-
----
-
-**ComposeSample** : Jetpack Compose를 공부하고 실무에 적용하면서 발생했던 이슈와 자주 사용되는 다양한 기능들의 샘플을 추가하고 있습니다.
-기존에 공부하면서 만들어둔 샘플코드 기반으로 작성되어 MainActivity에서는 기본적인 Compose 사용에 대한 예제가, BlogExampleActivity 에서 블로그에 작성된 실무에 적용할 수 있는 다양한 기능을 구현해 두었습니다.
-샘플 앱과 연결 된 블로그 글이 있는 경우 쉽게 찾아볼 수 있도록 링크를 연결해두었습니다.
-
-2024년 4월. 기준 메인 화면을 전면 개편.
-
-2024년 6월. Clean Architecture 구조로 변경.
-
-2024년 8월. Version Update 및 버전 대응.
+### 1. ComposeSample
+Jetpack Compose 학습 및 실무 적용 프로젝트
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
 
-**CleanArchitectureSample** : Clean Architecture에 대한 스터디를 진행하면서 만들어둔 샘플 프로젝트 입니다.
-Clean Architecture 개념을 이해하기 위하여 가장 기본적인 구조를 만족하고 있으며, API 통신, DI 등의 기본적인 사용 방법을 가이드 하기 위하여 만들었습니다.
+- **주요 기능**
+  - 기본적인 Compose 사용 예제 (MainActivity)
+  - 실무 적용 가능한 다양한 기능 구현 (BlogExampleActivity)
+  - 블로그 연동 및 실시간 예제 확인 기능
+- **최신 업데이트**
+  - 2024.08: Version Update 및 버전 대응
+  - 2024.06: Clean Architecture 구조로 전환
+  - 2024.04: 메인 화면 UI/UX 개선
+
+### 2. CleanArchitectureSample
+실무에서 바로 적용 가능한 Clean Architecture 구현
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
-**ModuleArchitecture** : Modular Architecture에 대한 스터디를 진행하면서 Clean Architecture를 기반으로 만들어 본 샘플 프로젝트 입니다.
-Clean Architecture의 구조를 Module로 나누었을 때 확인 할 수 있는 기본적인 구조이며, Coordinator Pattern를 사용하여 각 화면간의 이동을 구현하였습니다.
+- **특징**
+  - 표준 Clean Architecture 구조 구현
+  - 실무 최적화된 구조 설계
+  - 유지보수와 확장성 고려
+
+### 3. ModuleArchitecture
+모듈화 아키텍처 샘플 프로젝트
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/ModuleArchitecture)
 
-**MviArchitectureSample** : MVVM + MVI를 사용하여 기본적인 구조를 만들어 본 샘플 프로젝트 입니다.
+- **주요 내용**
+  - 효율적인 모듈 분리 전략
+  - 모듈간 의존성 관리
+  - 빌드 시간 최적화
 
-**MvpArchitectureSample** : MVP Pattern을 사용하여 기본적인 구조를 만들어 본 샘플 프로젝트 입니다.
+### 4. MviArchitectureSample
+MVI 아키텍처 패턴 구현 프로젝트
+- **특징**
+  - 단방향 데이터 흐름
+  - 상태 관리 최적화
+  - 예측 가능한 앱 동작
 
-**SAA-Compose** : ComposeSample를 Single Activity로 변경해 둔 샘플 프로젝트 입니다.
+### 5. MvpArchitecture
+MVP 아키텍처 패턴 구현 프로젝트
+- **특징**
+  - Model-View-Presenter 패턴 구현
+  - 테스트 용이성 향상
+  - UI와 비즈니스 로직 분리
 
-**SAA-Modular** : Moular Architecture를 Single Activity로 변경해 둔 샘플 프로젝트 입니다.
+### 6. SAA-Compose
+Single Activity Architecture with Jetpack Compose
+- **특징**
+  - 안드로이드 앱 아키텍처 가이드라인 준수
+  - Jetpack Compose 기반 UI 구현
 
-**DiSample** : DI에 대한 스터디를 진행하면서 Dagger2, Hilt, Koin을 적용해 본 샘플 프로젝트 입니다.
+### 7. SAA-Modular
+Single Activity Architecture with Modularization
+- **특징**
+  - 모듈화된 앱 아키텍처 구현
+  - 확장 가능한 구조 설계
+  - 빌드 시간 최적화
 
-**UnitTestSample** : Test Code에 대한 스터디를 진행하면서 Mockito, Truth, Espresso를 적용해 본 샘플 테스트 프로젝트 입니다.
+### 8. DISample
+의존성 주입(Dependency Injection) 샘플
+- **특징**
+  - Hilt/Koin/Dagger 활용
+  - DI 원칙 및 패턴 구현
 
-**ApiLogger** : JitPack을 사용한 Library 배포를 해보기 위하여 만들어둔 샘플 프로젝트 입니다.
+### 9. UnitTestSample
+단위 테스트 구현 예제
+- **특징**
+  - JUnit, Mockito 활용
+  - TDD 방식 적용
+  - 테스트 커버리지 관리
 
-**KtorSample** : Retrofit이 아닌 Ktor을 사용해보기 위해 만들어 둔 샘플 프로젝트 입니다.
+### 10. ApiLogger
+테스트용으로 만들어 본 API 로깅 라이브러리
+- **특징**
+  - HTTP 통신 로그 추적
+  - 디버깅 효율성 향상
+  - 커스텀 로그 포맷 지원
 
-**EpoxySample** : RecyclerView 대신 Airbnb에서 제공하는 Library인 Epoxy를 사용하여 RecyclerView를 구현해 본 샘플 프로젝트 입니다.
+### 11. KtorSample
+Ktor 프레임워크 활용 예제
+- **특징**
+  - 비동기 통신 처리
+  - 멀티플랫폼 지원
 
-## CI / CD Sample
-**Dummy** : Github Actions을 사용하기 위해 만들어 둔 Dummy 프로젝트로, 내부 코드는 Clean Architecture 프로젝트를 가져와 사용했습니다.
+### 12. EpoxySample
+Epoxy 라이브러리 활용 예제
+- **특징**
+  - 복잡한 RecyclerView 구현
+  - 효율적인 뷰 재사용
+  - 선언적 UI 구성
 
-**BitrsieSample** : Bitsire를 사용하기 위해 만들어 둔 Dummy 프로젝트 입니다.
+### 13. BitriseSample
+Bitrise CI/CD 구성 예제
+- **특징**
+  - CI/CD 워크플로우 구성
+  - 배포 자동화
+
+
+## 프로젝트 관리 정책
+- 실무 적용 가능성 검증
+- 지속적인 코드 품질 개선
+- 이슈 및 PR 적극 수용
 
 ## Blog
-공부를 진행하고, 관련된 자료를 남겨 Reference로 사용하기 위하여 블로그에 글을 작성하고 있습니다.
+[Tistory Blog](https://heegs.tistory.com/)
 
-또한, 타 블로그를 번역하여 복사 붙여넣기 하는 기술 블로그를 지양하며,
-
-직접 경험해보고 느낀 것을 토대로 글을 작성하여 같은 고민을 하는 개발자에게 도움을 주고자 합니다.
-
-<a href="https://github.com/HeeGyeong/github-readme-activity-graph">
-    <img src="https://img.shields.io/badge/Tistory Blog-000000?style=plastic&logo=Tistory&logoColor=FFA500"/>
-</a>
+  - 안드로이드 개발 관련 상세 기술 문서
+  - 이슈 해결 방법 공유
+  - 학습 내용 정리
+  - 직접 경험해보고 느낀 것을 토대로 글을 작성, 공유하는 것이 목적.
 
 <div align="center">
 
