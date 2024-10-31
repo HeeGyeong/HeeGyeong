@@ -1,14 +1,16 @@
 # Android Developer (2019.5 ~ )
 
-
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong)
-
-
+  
 <img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=plastic&logo=Jetpack Compose&logoColor=4285F4"/>
 
 <img src="https://img.shields.io/badge/Sourcetree-000000?style=plastic&logo=Sourcetree&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=Github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=Git&logoColor=F05032"/>
 
 <img src="https://img.shields.io/badge/Bitrise-000000?style=plastic&logo=Bitrise&logoColor=683D87"/> <img src="https://img.shields.io/badge/Github Actions-000000?style=plastic&logo=Githubactions&logoColor=2088FF"/>
+
+</div>
 
 
 ## 소개
@@ -50,69 +52,33 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
 
 ### 4. MviArchitectureSample
 MVI 아키텍처 패턴 구현 프로젝트
-- **특징**
-  - 단방향 데이터 흐름
-  - 상태 관리 최적화
-  - 예측 가능한 앱 동작
 
 ### 5. MvpArchitecture
 MVP 아키텍처 패턴 구현 프로젝트
-- **특징**
-  - Model-View-Presenter 패턴 구현
-  - 테스트 용이성 향상
-  - UI와 비즈니스 로직 분리
 
 ### 6. SAA-Compose
-Single Activity Architecture with Jetpack Compose
-- **특징**
-  - 안드로이드 앱 아키텍처 가이드라인 준수
-  - Jetpack Compose 기반 UI 구현
+Compose를 사용한 Single Activity Architecture 샘플 프로젝트
 
 ### 7. SAA-Modular
-Single Activity Architecture with Modularization
-- **특징**
-  - 모듈화된 앱 아키텍처 구현
-  - 확장 가능한 구조 설계
-  - 빌드 시간 최적화
+Multi Module을 사용한 Single Activity Architecture 샘플 프로젝트
 
 ### 8. DISample
 의존성 주입(Dependency Injection) 샘플
-- **특징**
-  - Hilt/Koin/Dagger 활용
-  - DI 원칙 및 패턴 구현
 
 ### 9. UnitTestSample
 단위 테스트 구현 예제
-- **특징**
-  - JUnit, Mockito 활용
-  - TDD 방식 적용
-  - 테스트 커버리지 관리
 
 ### 10. ApiLogger
 테스트용으로 만들어 본 API 로깅 라이브러리
-- **특징**
-  - HTTP 통신 로그 추적
-  - 디버깅 효율성 향상
-  - 커스텀 로그 포맷 지원
 
 ### 11. KtorSample
 Ktor 프레임워크 활용 예제
-- **특징**
-  - 비동기 통신 처리
-  - 멀티플랫폼 지원
 
 ### 12. EpoxySample
 Epoxy 라이브러리 활용 예제
-- **특징**
-  - 복잡한 RecyclerView 구현
-  - 효율적인 뷰 재사용
-  - 선언적 UI 구성
 
 ### 13. BitriseSample
 Bitrise CI/CD 구성 예제
-- **특징**
-  - CI/CD 워크플로우 구성
-  - 배포 자동화
 
 
 ## 프로젝트 관리 정책
