@@ -10,6 +10,8 @@
 
 <img src="https://img.shields.io/badge/Bitrise-000000?style=plastic&logo=Bitrise&logoColor=683D87"/> <img src="https://img.shields.io/badge/Github Actions-000000?style=plastic&logo=Githubactions&logoColor=2088FF"/>
 
+<img src="https://img.shields.io/badge/Cursor IDE-000000?style=plastic"/>
+
 </div>
 
 
