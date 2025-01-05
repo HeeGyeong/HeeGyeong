@@ -1,6 +1,6 @@
 # Android Developer (2019.5 ~ )
 
-<div align="center">
+<div align="start">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong)
   
