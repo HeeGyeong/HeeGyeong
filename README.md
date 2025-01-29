@@ -84,6 +84,9 @@ Epoxy 라이브러리 활용 예제
 ### 13. BitriseSample
 Bitrise CI/CD 구성 예제
 
+### 14. AlgorithmExample
+다양한 알고리즘에 관련된 문제를 해결하는 예제
+
 
 ## 프로젝트 관리 정책
 - 실무 적용 가능성 검증
