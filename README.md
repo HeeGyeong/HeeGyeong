@@ -53,39 +53,46 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
   - 효율적인 모듈 분리 전략
   - 모듈간 의존성 관리
   - 빌드 시간 최적화
+ 
+### 4. AlgorithmExample
+다양한 알고리즘에 관련된 문제를 해결하는 예제
 
-### 4. MviArchitectureSample
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=AlgorithmExample&theme=dark)](https://github.com/HeeGyeong/AlgorithmExample)
+
+- **주요 내용**
+  - 다양한 종류의 알고리즘 풀이
+  - 실시간 결과 확인을 위한 Preview 구현
+  - 주석을 통한 각 알고리즘의 시간/공간 복잡도 분석 및 설명
+
+### 5. MviArchitectureSample
 MVI 아키텍처 패턴 구현 프로젝트
 
-### 5. MvpArchitecture
+### 6. MvpArchitecture
 MVP 아키텍처 패턴 구현 프로젝트
 
-### 6. SAA-Compose
+### 7. SAA-Compose
 Compose를 사용한 Single Activity Architecture 샘플 프로젝트
 
-### 7. SAA-Modular
+### 8. SAA-Modular
 Multi Module을 사용한 Single Activity Architecture 샘플 프로젝트
 
-### 8. DISample
+### 9. DISample
 의존성 주입(Dependency Injection) 샘플
 
-### 9. UnitTestSample
+### 10. UnitTestSample
 단위 테스트 구현 예제
 
-### 10. ApiLogger
+### 11. ApiLogger
 테스트용으로 만들어 본 API 로깅 라이브러리
 
-### 11. KtorSample
+### 12. KtorSample
 Ktor 프레임워크 활용 예제
 
-### 12. EpoxySample
+### 13. EpoxySample
 Epoxy 라이브러리 활용 예제
 
-### 13. BitriseSample
+### 14. BitriseSample
 Bitrise CI/CD 구성 예제
-
-### 14. AlgorithmExample
-다양한 알고리즘에 관련된 문제를 해결하는 예제
 
 
 ## 프로젝트 관리 정책
