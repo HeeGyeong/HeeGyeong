@@ -57,8 +57,6 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
 ### 4. AlgorithmExample
 다양한 알고리즘에 관련된 문제를 해결하는 예제
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=AlgorithmExample&theme=dark)](https://github.com/HeeGyeong/AlgorithmExample)
-
 - **주요 내용**
   - 다양한 종류의 알고리즘 풀이
   - 실시간 결과 확인을 위한 Preview 구현
