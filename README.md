@@ -27,8 +27,9 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
   - 기본적인 Compose 사용 예제 (MainActivity)
   - 실무 적용 가능한 다양한 기능 구현 (BlogExampleActivity)
   - 블로그 연동 및 실시간 예제 확인 기능
-- **최신 업데이트**
-  - 2024.12: toml 파일 작성 및 gradle 변경 
+- **최신 업데이트**   
+  - 2025.02: targetSDK 35 UI 대응
+  - 2024.12: toml 파일 작성 및 gradle 변경
   - 2024.11: README.md 갱신
   - 2024.08: Version Update 및 버전 대응
   - 2024.06: Clean Architecture 구조로 전환
