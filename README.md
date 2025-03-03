@@ -1,5 +1,3 @@
-# Android Developer (2019.5 ~ )
-
 <div align="start">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong)
@@ -15,18 +13,20 @@
 </div>
 
 
-## 소개
-안드로이드 개발을 하면서 학습하고 실무에 적용한 다양한 아키텍처와 기술들을 정리한 저장소입니다.
+### ✍️ Repository
+안드로이드 개발을 하면서 학습했던 다양한 아키텍처와 개발 관련 기술들을 정리한 저장소입니다.
 
-### 1. ComposeSample
-Jetpack Compose 학습 및 실무 적용 프로젝트
+실무에 적용할 수 있거나 도움이 될 수 있는 다양한 예제를 작성하고 있습니다.
+
+#### 1. ComposeSample
+Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 구현한 프로젝트
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
 
 - **주요 기능**
   - 기본적인 Compose 사용 예제 (MainActivity)
   - 실무 적용 가능한 다양한 기능 구현 (BlogExampleActivity)
-  - 블로그 연동 및 실시간 예제 확인 기능
+  - 관련 블로그 게시글 연동 및 실시간 예제 확인 기능
 - **최신 업데이트**   
   - 2025.02: targetSDK 35 UI 대응
   - 2024.12: toml 파일 작성 및 gradle 변경
@@ -35,8 +35,8 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
   - 2024.06: Clean Architecture 구조로 전환
   - 2024.04: 메인 화면 UI/UX 개선
 
-### 2. CleanArchitectureSample
-실무에서 바로 적용 가능한 Clean Architecture 구현
+#### 2. CleanArchitectureSample
+실무에서 바로 적용 가능한 Clean Architecture sample 구현
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
@@ -45,8 +45,8 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
   - 실무 최적화된 구조 설계
   - 유지보수와 확장성 고려
 
-### 3. ModuleArchitecture
-모듈화 아키텍처 샘플 프로젝트
+#### 3. ModuleArchitecture
+Module Architecture sample 구현
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/ModuleArchitecture)
 
@@ -55,7 +55,7 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
   - 모듈간 의존성 관리
   - 빌드 시간 최적화
  
-### 4. AlgorithmExample
+#### 4. AlgorithmExample
 다양한 알고리즘에 관련된 문제를 해결하는 예제
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=AlgorithmExample&theme=dark)](https://github.com/HeeGyeong/AlgorithmExample)
@@ -65,49 +65,23 @@ Jetpack Compose 학습 및 실무 적용 프로젝트
   - 실시간 결과 확인을 위한 Preview 구현
   - 주석을 통한 각 알고리즘의 시간/공간 복잡도 분석 및 설명
 
-### 5. MviArchitectureSample
-MVI 아키텍처 패턴 구현 프로젝트
-
-### 6. MvpArchitecture
-MVP 아키텍처 패턴 구현 프로젝트
-
-### 7. SAA-Compose
-Compose를 사용한 Single Activity Architecture 샘플 프로젝트
-
-### 8. SAA-Modular
-Multi Module을 사용한 Single Activity Architecture 샘플 프로젝트
-
-### 9. DISample
-의존성 주입(Dependency Injection) 샘플
-
-### 10. UnitTestSample
-단위 테스트 구현 예제
-
-### 11. ApiLogger
-테스트용으로 만들어 본 API 로깅 라이브러리
-
-### 12. KtorSample
-Ktor 프레임워크 활용 예제
-
-### 13. EpoxySample
-Epoxy 라이브러리 활용 예제
-
-### 14. BitriseSample
-Bitrise CI/CD 구성 예제
+#### 5. Etc.
+기타 테스트 및 학습을 위한 다양한 프로젝트
 
 
-## 프로젝트 관리 정책
+### 프로젝트 관리 정책
 - 실무 적용 가능성 검증
 - 지속적인 코드 품질 개선
 - 이슈 및 PR 적극 수용
 
-## Blog
+### 🗞️ Blog
 [Tistory Blog](https://heegs.tistory.com/)
 
   - 안드로이드 개발 관련 상세 기술 문서
   - 이슈 해결 방법 공유
   - 학습 내용 정리
   - 직접 경험해보고 느낀 것을 토대로 글을 작성, 공유하는 것이 목적.
+
 
 <div align="center">
 
