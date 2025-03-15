@@ -45,6 +45,8 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
   - 표준 Clean Architecture 구조 구현
   - 실무 최적화된 구조 설계
   - 유지보수와 확장성 고려
+- **최신 업데이트**   
+  - 2025.03: 버전 업데이트 진행 중
 
 #### 3. ModuleArchitecture
 Module Architecture sample 구현
