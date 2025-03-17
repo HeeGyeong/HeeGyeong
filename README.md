@@ -43,7 +43,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 
 현재 버전 업데이트 진행 중. 버전 문제로 빌드가 정상적으로 진행되지 않을 수 있습니다.
 
-수정중에 있으니, 빌드가 되지 않을 경우 구조를 확인해주세요.
+관련해서 확인 후 수정 및 개선 작업에 있으니, 빌드가 되지 않을 경우 구조만 참고해주세요.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
