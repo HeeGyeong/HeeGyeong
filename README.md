@@ -39,13 +39,11 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 #### 2. CleanArchitectureSample
 실무에서 바로 적용 가능한 Clean Architecture sample 구현
 
-- **25.03.31 기준**
+- **25.04.02 기준**
 
-현재 버전 업데이트 진행 중.
+빌드 및 동작 정상적으로 되도록 수정 완료.
 
-빌드는 정상적으로 되게 수정 완료.
-
-현재 DI 부분 문제로 화면 이동이 되지 않습니다. 화면 이동에는 아키텍처와 관련된 부분이 적으므로, 수정 전 까지는 관련된 부분은 코드로만 확인하면 됩니다.
+현재 라이브러리 버전 업데이트 진행 중이므로 gradle 파일에 대한 버전 및 정리가 안된 부분이 있을 수 있습니다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
