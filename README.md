@@ -39,12 +39,6 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 #### 2. CleanArchitectureSample
 실무에서 바로 적용 가능한 Clean Architecture sample 구현
 
-- **25.04.02 기준**
-
-빌드 및 동작 정상적으로 되도록 수정 완료.
-
-현재 라이브러리 버전 업데이트 진행 중이므로 gradle 파일에 대한 버전 및 정리가 안된 부분이 있을 수 있습니다.
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
 
 - **특징**
@@ -52,7 +46,8 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
   - 실무 최적화된 구조 설계
   - 유지보수와 확장성 고려
 - **최신 업데이트**   
-  - 2025.03: 버전 업데이트 진행 중
+  - 2025.04: 최신 버전 빌드 가능하도록 수정완료 
+
 
 #### 3. ModuleArchitecture
 Module Architecture sample 구현
