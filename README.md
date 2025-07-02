@@ -28,6 +28,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
   - 실무 적용 가능한 다양한 기능 구현 (BlogExampleActivity)
   - 관련 블로그 게시글 연동 및 실시간 예제 확인 기능
 - **최신 업데이트**
+  - 2025.07: 컴포넌트 패키지 구조 대분류별 정리
   - 2025.06: 버전 최신화 및 cursorrules mdc 파일 추가
   - 2025.03: Cursor IDE 용 md 파일 추가
   - 2025.02: targetSDK 35 UI 대응
