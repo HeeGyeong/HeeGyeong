@@ -1,6 +1,6 @@
 <div align="start">
   
-<img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=plastic&logo=jetpackcompose&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=plastic&logo=jetpackcompose&logoColor=4285F4"/> <img src="https://img.shields.io/badge/Material Design-000000?style=plastic&logo=materialdesign&logoColor=6750A4"/> <img src="https://img.shields.io/badge/Gradle-000000?style=plastic&logo=gradle&logoColor=ffffff"/>
 
 <img src="https://img.shields.io/badge/Sourcetree-000000?style=plastic&logo=Sourcetree&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=Github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=Git&logoColor=F05032"/>
 
