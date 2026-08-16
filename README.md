@@ -1,6 +1,6 @@
 <div align="start">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeGyeong&show_icons=true&theme=dark)](https://github.com/HeeGyeong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeGyeong&layout=compact&theme=dark)](https://github.com/HeeGyeong)
+[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/github-metrics.svg" alt="GitHub Metrics"/>](https://github.com/HeeGyeong)
   
 <img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/>
 
@@ -21,7 +21,7 @@
 #### 1. ComposeSample
 Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 구현한 프로젝트
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ComposeSample&theme=dark)](https://github.com/HeeGyeong/ComposeSample)
+[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.composesample.svg" alt="ComposeSample Readme Card"/>](https://github.com/HeeGyeong/ComposeSample)
 
 - **주요 기능**
   - 기본적인 Compose 사용 예제 (MainActivity)
@@ -41,7 +41,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 #### 2. CleanArchitectureSample
 실무에서 바로 적용 가능한 Clean Architecture sample 구현
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=CleanArchitectureSample&theme=dark)](https://github.com/HeeGyeong/CleanArchitectureSample)
+[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.cleanarchitecturesample.svg" alt="CleanArchitectureSample Readme Card"/>](https://github.com/HeeGyeong/CleanArchitectureSample)
 
 - **특징**
   - 표준 Clean Architecture 구조 구현
@@ -56,7 +56,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 #### 3. ModuleArchitecture
 Module Architecture sample 구현
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=ModuleArchitecture&theme=dark)](https://github.com/HeeGyeong/ModuleArchitecture)
+[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.modulearchitecture.svg" alt="ModuleArchitecture Readme Card"/>](https://github.com/HeeGyeong/ModuleArchitecture)
 
 - **주요 내용**
   - 효율적인 모듈 분리 전략
@@ -66,7 +66,7 @@ Module Architecture sample 구현
 #### 4. AlgorithmExample
 다양한 알고리즘에 관련된 문제를 해결하는 예제
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeeGyeong&repo=AlgorithmExample&theme=dark)](https://github.com/HeeGyeong/AlgorithmExample)
+[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.algorithmexample.svg" alt="AlgorithmExample Readme Card"/>](https://github.com/HeeGyeong/AlgorithmExample)
 
 - **주요 내용**
   - 다양한 종류의 알고리즘 풀이
