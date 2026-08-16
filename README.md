@@ -1,7 +1,5 @@
 <div align="start">
   
-[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/github-metrics.svg" alt="GitHub Metrics"/>](https://github.com/HeeGyeong)
-  
 <img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/>
 
 <img src="https://img.shields.io/badge/Sourcetree-000000?style=plastic&logo=Sourcetree&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=Github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=Git&logoColor=F05032"/>
@@ -21,13 +19,17 @@
 #### 1. ComposeSample
 Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 구현한 프로젝트
 
-[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.composesample.svg" alt="ComposeSample Readme Card"/>](https://github.com/HeeGyeong/ComposeSample)
+🔗 [GitHub Repository](https://github.com/HeeGyeong/ComposeSample)
 
 - **주요 기능**
   - 기본적인 Compose 사용 예제 (MainActivity)
   - 실무 적용 가능한 다양한 기능 구현 (BlogExampleActivity)
   - 관련 블로그 게시글 연동 및 실시간 예제 확인 기능
 - **최신 업데이트**
+  - 2026.08: 문서-코드 드리프트 자동 감지/동기화 체계 도입 및 신규 예제 지속 추가
+  - 2026.07: Coil2 → Coil3 마이그레이션 및 레거시 서브시스템 정리
+  - 2026.06: Kotlin 2.4.0 업그레이드 및 domain 모듈 순수 Kotlin 전환 (Clean Architecture 경계 강화)
+  - 2026.04: Material2 → Material3 전면 전환 및 Compose Hot Reload 적용
   - 2025.07: 컴포넌트 패키지 구조 대분류별 정리
   - 2025.06: 버전 최신화 및 cursorrules mdc 파일 추가
   - 2025.03: Cursor IDE 용 md 파일 추가
@@ -41,7 +43,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 #### 2. CleanArchitectureSample
 실무에서 바로 적용 가능한 Clean Architecture sample 구현
 
-[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.cleanarchitecturesample.svg" alt="CleanArchitectureSample Readme Card"/>](https://github.com/HeeGyeong/CleanArchitectureSample)
+🔗 [GitHub Repository](https://github.com/HeeGyeong/CleanArchitectureSample)
 
 - **특징**
   - 표준 Clean Architecture 구조 구현
@@ -49,6 +51,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
   - 유지보수와 확장성 고려
   - 다양한 사용 가능한 예제 작성 중
 - **최신 업데이트**   
+  - 2025.05: Cursor rules 파일 추가 및 RecyclerView Drag / Fragment-in-Compose 예제 보강
   - 2025.04: XML + Compose UI 사용 추가
   - 2025.04: 최신 버전 빌드 가능하도록 수정완료 
 
@@ -56,7 +59,7 @@ Jetpack Compose 학습 및 실무 적용 가능한 기능의 샘플 코드를 �
 #### 3. ModuleArchitecture
 Module Architecture sample 구현
 
-[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.modulearchitecture.svg" alt="ModuleArchitecture Readme Card"/>](https://github.com/HeeGyeong/ModuleArchitecture)
+🔗 [GitHub Repository](https://github.com/HeeGyeong/ModuleArchitecture)
 
 - **주요 내용**
   - 효율적인 모듈 분리 전략
@@ -66,7 +69,7 @@ Module Architecture sample 구현
 #### 4. AlgorithmExample
 다양한 알고리즘에 관련된 문제를 해결하는 예제
 
-[<img src="https://raw.githubusercontent.com/HeeGyeong/HeeGyeong/metrics/metrics.algorithmexample.svg" alt="AlgorithmExample Readme Card"/>](https://github.com/HeeGyeong/AlgorithmExample)
+🔗 [GitHub Repository](https://github.com/HeeGyeong/AlgorithmExample)
 
 - **주요 내용**
   - 다양한 종류의 알고리즘 풀이
