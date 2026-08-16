@@ -1,12 +1,12 @@
 <div align="start">
   
-<img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Android-000000?style=plastic&logo=Android&logoColor=34A853"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=plastic&logo=Kotlin&logoColor=7F52FF"/> <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=plastic&logo=jetpackcompose&logoColor=4285F4"/>
 
 <img src="https://img.shields.io/badge/Sourcetree-000000?style=plastic&logo=Sourcetree&logoColor=0052CC"/> <img src="https://img.shields.io/badge/Github-000000?style=plastic&logo=Github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=Git&logoColor=F05032"/>
 
 <img src="https://img.shields.io/badge/Bitrise-000000?style=plastic&logo=Bitrise&logoColor=683D87"/> <img src="https://img.shields.io/badge/Github Actions-000000?style=plastic&logo=Githubactions&logoColor=2088FF"/>
 
-<img src="https://img.shields.io/badge/Cursor IDE-000000?style=plastic"/>
+<img src="https://img.shields.io/badge/Cursor IDE-000000?style=plastic"/> <img src="https://img.shields.io/badge/Claude Code-000000?style=plastic&logo=claudecode&logoColor=D97757"/>
 
 </div>
 
